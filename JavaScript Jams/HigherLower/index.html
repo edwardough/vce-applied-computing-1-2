@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 id='greet'>Welcome to higher or lower!</h1>
+    <h3>Guess a number between 1 and 10 below</h3>
+    <input id='guess' value='Type answer here'>
+    <button type="button" onclick="myFunction()">Check answer</button>
+    <h3 id='result'>Response: </h3>
+    <script src="script.js"></script>
+    <script>
+        var playerName = prompt("Welcome. What's your name?");
+        document.getElementById('greet').innerHTML = "Welcome to higher or lower game, " + playerName + "!";
+    </script>
+</body>
+</html>
+<!-- Icons made by flaticon.com/authors/bukeicon -->

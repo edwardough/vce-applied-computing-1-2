@@ -1,0 +1,14 @@
+/* h1 {
+    font-size: 2.5rem;
+    color: whitesmoke;
+} */
+
+body {
+    background-color: #5df4d9;
+    color: whitesmoke;
+}
+
+#doc_pic {
+    width: 25%;
+    /* height: auto; */
+}
