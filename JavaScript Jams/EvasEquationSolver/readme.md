@@ -1,3 +1,4 @@
+![A screenshot of the app](sample.png)
 See sample.png for a screenshot
 # Version 0.0.1
 ## Progress so far
