@@ -1,5 +1,3 @@
-![A screenshot of the app](sample.png)
-See sample.png for a screenshot
 # Version 0.0.1
 ## Progress so far
 This 'app' takes in keydown events to create an array with an equation in it.
@@ -9,3 +7,4 @@ Each term MUST be separated by a space bar.
 Find a JS library that solves equations. Sorted.
 Jokes aside, you'll learn lots doing little projects like this.
 For example in this project I'm using event listeners, arrays with map(), the ternary operator, the createElement() and appendChild() DOM methods, and more if you want to keep going.
+![A screenshot of the app](sample.png)
